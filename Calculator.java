@@ -64,7 +64,7 @@ public class Calculator {
         System.out.println("13. Exit");
     }
 
-    // --- Basic Arithmetic Methods ---
+
     public static double add(double num1, double num2) {
         return num1 + num2;
     }
